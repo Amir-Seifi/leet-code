@@ -1,2 +1,3 @@
 # leet-code
- LeetCode problems that i solved.
+
+LeetCode problems that i solved through my journey into the web devlopment world.
