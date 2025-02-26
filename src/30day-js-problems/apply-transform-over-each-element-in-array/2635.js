@@ -5,7 +5,6 @@
  * @param {Function} fn
  * @return {number[]}
  */
-
 const map = (arr, fn) => {
   let result = [];
 

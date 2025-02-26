@@ -5,7 +5,6 @@
  * @param {number} n
  * @return {number[]}
  */
-
 var shuffle = function (nums, n) {
   const firstSlice = nums.slice(0, n);
   const lastSlice = nums.slice(n, 2 * n);

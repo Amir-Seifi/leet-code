@@ -5,7 +5,6 @@
  * @param {character} x
  * @return {number[]}
  */
-
 var findWordsContaining = function (words, x) {
   let result = new Set();
 

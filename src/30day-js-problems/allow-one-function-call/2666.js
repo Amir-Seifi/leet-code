@@ -4,7 +4,6 @@
  * @param {Function} fn
  * @return {Function}
  */
-
 var once = function (fn) {
   let counter = 0;
 

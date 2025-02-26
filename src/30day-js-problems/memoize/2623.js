@@ -4,7 +4,6 @@
  * @param {Function} fn
  * @return {Function}
  */
-
 function memoize(fn) {
   const output = new Map();
 
