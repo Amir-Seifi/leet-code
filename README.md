@@ -1,3 +1,3 @@
-# leet-code
+#leet-code
 
-LeetCode problems that i solved through my journey into the web devlopment world.
+Solutions to LeetCode problems in JavaScript — closures, promises, higher-order functions and basic algorithms.
