@@ -1,3 +1,3 @@
 # leet-code
 
-Solutions to LeetCode problems in Python featuring closures, promises, higher-order functions and basic algorithms that I've studied and categorized into different tiers.
+Algorithms and concepts that I've studied in python featuring handwritten codes and personal notes.

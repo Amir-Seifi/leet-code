@@ -8,4 +8,11 @@ class Solution(object):
         :rtype: int
         """
 
-        
+        allowed = set(allowed)
+        result = 0
+
+        for word in words:
+            if all(char in allowed for char in word):
+                result += 1
+
+        return result
