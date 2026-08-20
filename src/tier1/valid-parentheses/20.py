@@ -1,4 +1,4 @@
-# 20. Valid Parentheses
+#20. Valid Parentheses
 
 class Solution(object):
     def isValid(self, s):
